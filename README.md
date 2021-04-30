@@ -7,7 +7,7 @@ Python, C#, C, C++, GitHub, PowerShell, SQL, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 Nothing currently.
 - 📫 How to reach me ...
-Via Twitter. https://twitter.com/saihatnetsec
+Via Twitter. https://twitter.com/0xSaihatsec
 
 <!---
 SaihatSec/SaihatSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
